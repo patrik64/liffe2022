@@ -672,9 +672,755 @@
         },
         {
           "lkey": "trailer",
-          "lvalue": "Xqgea3KtikY"
+          "lvalue": "rrBeSQbdXmw"
         }
       ],
       "image": "eo.png"
+    },
+    {
+      "id": 18,
+      "name": "Un monde",
+      "sloname": "Igrišče",
+      "engname": "Playground",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "12.11.2022",
+          "time": "17:15"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "15.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "17.11.2022",
+          "time": "17:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3426"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11087960"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Z3tDnQ8EWvA"
+        }
+      ],
+      "image": "playground.png"
+    },
+    {
+      "id": 19,
+      "name": "Intregalde",
+      "sloname": "Intregalde",
+      "engname": "Intregalde",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "18.11.2022",
+          "time": "11:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3479"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14050808"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Z3tDnQ8EWvA"
+        }
+      ],
+      "image": "intregalde.png"
+    },
+    {
+      "id": 20,
+      "name": "The Lost King",
+      "sloname": "Izgubljeni kralj",
+      "engname": "The Lost King",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "14.11.2022",
+          "time": "18:20"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "18.11.2022",
+          "time": "16:10"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "20.11.2022",
+          "time": "19:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3489"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13421498"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "1QCa25CmONI"
+        }
+      ],
+      "image": "lostking.png"
+    },
+    {
+      "id": 21,
+      "name": "La croisade",
+      "sloname": "Kako rešiti planet",
+      "engname": "The Crusade",
+      "score": "5.6",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "10.11.2022",
+          "time": "17:20"
+        },
+        {
+          "kino": "Maribox",
+          "date": "12.11.2022",
+          "time": "18:15"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "13.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "19.11.2022",
+          "time": "15:15"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "19.11.2022",
+          "time": "17:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3435"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13421498"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "8vfXqCJXcm4"
+        }
+      ],
+      "image": "crusade.png"
+    },
+    {
+      "id": 22,
+      "name": "Kapa",
+      "sloname": "Kapa",
+      "engname": "Beanie",
+      "score": "8.4",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "11.11.2022",
+          "time": "17:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "13.11.2022",
+          "time": "14:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3413"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13582386"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "nV4p-aSW6ik"
+        }
+      ],
+      "image": "kapa.png"
+    },
+    {
+      "id": 23,
+      "name": "Captain Nova",
+      "sloname": "Kapitanka Nova",
+      "engname": "Captain Nova",
+      "score": "5.5",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "13.11.2022",
+          "time": "16:15"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "20.11.2022",
+          "time": "15:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3458"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14915608"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "FVqEFE6BXIs"
+        }
+      ],
+      "image": "nova.png"
+    },
+    {
+      "id": 24,
+      "name": "Kud puklo da puklo",
+      "sloname": "Kar bo pa bo",
+      "engname": "Whichever Way the Ball Bounces",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "10.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "20.11.2022",
+          "time": "17:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3408"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14915608"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Yxaz-Smwifg"
+        }
+      ],
+      "image": "puklo.png"
+    },
+    {
+      "id": 25,
+      "name": "The Whale",
+      "sloname": "Kit",
+      "engname": "The Whale",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "15.11.2022",
+          "time": "16:15"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "17.11.2022",
+          "time": "21:15"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "20.11.2022",
+          "time": "18:20"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3487"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13833688"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "_wwgoELTHGU"
+        }
+      ],
+      "image": "whale.png"
+    },
+    {
+      "id": 26,
+      "name": "Në kërkim të Venerës",
+      "sloname": "Kje je Venera?",
+      "engname": "Looking for Venera",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "18.11.2022",
+          "time": "15:50"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3439"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13886890"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Fpnh5-qjmMU"
+        }
+      ],
+      "image": "venera.png"
+    },
+    {
+      "id": 27,
+      "name": "Luaneshat e Kodres",
+      "sloname": "Kjer levinje rjovejo",
+      "engname": "The Hill Where Lionesses Roar",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "19:30"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "14.11.2022",
+          "time": "14:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3437"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11379572"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "i60VtGJcE2A"
+        }
+      ],
+      "image": "roar.png"
+    },
+    {
+      "id": 28,
+      "name": "Corsage",
+      "sloname": "Korzet",
+      "engname": "Corsage",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "9.11.2022",
+          "time": "19:30"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "10.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "12.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "12.11.2022",
+          "time": "20:15"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "15.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "20.11.2022",
+          "time": "17:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3417"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11992694"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "YhxtHJCWFUs"
+        }
+      ],
+      "image": "corsage.png"
+    },
+    {
+      "id": 29,
+      "name": "Szerelmem, Elektra",
+      "sloname": "Ljubim Elektro",
+      "engname": "Electra, My Love",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "13.11.2022",
+          "time": "19:15"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "19.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3407"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0072241"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "HHmwSjxJgJA"
+        }
+      ],
+      "image": "elektra.png"
+    },
+    {
+      "id": 30,
+      "name": "Szegénylegények",
+      "sloname": "Ljudje brez upanja",
+      "engname": "The Round-Up",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "9.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "15.11.2022",
+          "time": "16:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3402"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0059776"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "CvmVmjl6aCE"
+        }
+      ],
+      "image": "roundup.png"
+    },
+    {
+      "id": 31,
+      "name": "Lunana: A Yak in the Classroom",
+      "sloname": "Lunana: jak v razredu",
+      "engname": "Lunana: A Yak in the Classroom",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Kino Bežigrad",
+          "date": "9.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "11.11.2022",
+          "time": "17:45"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "12.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "18.11.2022",
+          "time": "17:45"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "19.11.2022",
+          "time": "19:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3451"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10189300"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "_LkQNa3e-cQ"
+        }
+      ],
+      "image": "yak.png"
+    },
+    {
+      "id": 32,
+      "name": "Metronom",
+      "sloname": "Metronom",
+      "engname": "Metronom",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "10.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "14.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "17.11.2022",
+          "time": "19:10"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "20.11.2022",
+          "time": "14:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3420"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12253164"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "nwyiFnNN1Ls"
+        }
+      ],
+      "image": "metronom.png"
+    },
+    {
+      "id": 33,
+      "name": "Robotbror",
+      "sloname": "Moj brat robot",
+      "engname": "My Robot Brother ",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "12.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "19.11.2022",
+          "time": "15:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3424"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15725474"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "KeNoSC7xChQ"
+        }
+      ],
+      "image": "robot.png"
+    },
+    {
+      "id": 34,
+      "name": "Chemi otakhi",
+      "sloname": "Moja soba",
+      "engname": "A Room of My Own",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "9.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "16:40"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "19.11.2022",
+          "time": "17:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3455"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt20877264"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "eidlKnuDtIs"
+        }
+      ],
+      "image": "room.png"
+    },
+    {
+      "id": 35,
+      "name": "Moja Vesna",
+      "sloname": "Moja Vesna",
+      "engname": "Moja Vesna",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "12.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "13.11.2022",
+          "time": "18:45"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "15.11.2022",
+          "time": "18:30"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "16.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "17.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "18.11.2022",
+          "time": "18:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3428"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt7298782"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "0tBklOSfFv0"
+        }
+      ],
+      "image": "vesna.png"
+    },
+    {
+      "id": 36,
+      "name": "R.M.N.",
+      "sloname": "MRI",
+      "engname": "R.M.N.",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "9.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "15.11.2022",
+          "time": "18:30"
+        },
+        {
+          "kino": "Maribox",
+          "date": "16.11.2022",
+          "time": "20:15"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "20.11.2022",
+          "time": "20:50"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3448"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18550182"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "RrHTB0k9XyU"
+        }
+      ],
+      "image": "rmn.png"
     }
 ]
