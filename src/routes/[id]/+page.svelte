@@ -57,11 +57,14 @@
 
   let getOgDescription = () => {
     let ret = "IMDB: " + movie.score;
-    ret += '\n';
+    ret += "&#10;&#13";
+    ret += "\r\n";  
+    ret += "\r";  
+    ret += "\n";  
     for(let s in movie.shows) {
       let show = movie.shows[s];
-      ret += show.date + " - " + getWeekday(show.date) + " - " + show.time + "h - " + show.kino;
-      ret += '\n';
+      
+      ret += "-> " + show.date + " - " + getWeekday(show.date) + " - " + show.time + "h - " + show.kino + " <-";
     }
     return ret;
   }
@@ -76,8 +79,8 @@
    <meta property="og:title" content={movie.name} />
    <meta property="og:description" content={getOgDescription()} />
    <meta property="og:image" content={getImageUrl()} />
-   <meta property="og:image:width" content="400" />
-   <meta property="og:image:height" content="400" />
+   <!--meta property="og:image:width" content="400" />
+   <meta property="og:image:height" content="400" /-->
    <meta property="og:image:alt" content={movie.name} />
 </svelte:head>
   
