@@ -62,6 +62,11 @@
                   <div class="text-black">{movie.name}</div>
                 </h3>
               </div>
+              <div class="text-xs font-medium lg:text-sm text-center">
+                <h3>
+                  <div class="text-gray-600">[{movie.sloname}]</div>
+                </h3>
+              </div>
             </div>
           </a>
         </li>
