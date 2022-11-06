@@ -1422,5 +1422,93 @@
         }
       ],
       "image": "rmn.png"
+    },
+    {
+      "id": 37,
+      "name": "Najsrekjniot čovek na svetot",
+      "sloname": "Najsrečnejši človek na svetu",
+      "engname": "The Happiest Man in the World",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Maribox",
+          "date": "10.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "12.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "15.11.2022",
+          "time": "18:45"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "17.11.2022",
+          "time": "14:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3470"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21138322"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "LTxcMU78fxg"
+        }
+      ],
+      "image": "happiest.png"
+    },
+    {
+      "id": 38,
+      "name": "Utama",
+      "sloname": "Naš dom",
+      "engname": "Our Home ",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "10.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "21:30"
+        },
+        {
+          "kino": "Maribox",
+          "date": "13.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "15.11.2022",
+          "time": "15:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3419"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10984580"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "8S8bfr0Y1Pc"
+        }
+      ],
+      "image": "utama.png"
     }
 ]

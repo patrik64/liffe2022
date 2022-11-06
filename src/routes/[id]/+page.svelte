@@ -48,6 +48,19 @@
   };
 
 </script>
+
+<svelte:head>
+   <meta property="og:site_name" content="liffe2022" />
+   <meta property="og:locale" content="en" />
+   <meta property="og:url" content="liffe2022.vercel.app" />
+   <meta property="og:type" content="website" />
+   <meta property="og:title" content={movie.name} />
+   <meta property="og:description" content={movie.name} />
+   <meta property="og:image" content={`https://liffe2022.vercel.app/images/movies/${movie.image}`} />
+   <meta property="og:image:width" content="400" />
+   <meta property="og:image:height" content="400" />
+   <meta property="og:image:alt" content={movie.name} />
+</svelte:head>
   
 {#if movie}
 <div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
