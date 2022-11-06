@@ -120,5 +120,78 @@
         }
       ],
       "image": "alcarras.png"
+    },
+    {
+      "id": 4,
+      "name": "Alma Viva",
+      "sloname": "Alma Viva",
+      "engname": "Alma Viva",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "10.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "20.11.2022",
+          "time": "14:50"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3481"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14981626"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "m9774j9p_eY"
+        }
+      ],
+      "image": "almaviva.png"
+    },
+    {
+      "id": 5,
+      "name": "Slovo",
+      "sloname": "Beseda",
+      "engname": "The WORD",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "11.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "18.11.2022",
+          "time": "18:15"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "20.11.2022",
+          "time": "20:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3456"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10692870"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "z4glq4QsocI"
+        }
+      ],
+      "image": "slovo.png"
     }
 ]

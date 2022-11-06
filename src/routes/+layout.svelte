@@ -16,7 +16,7 @@
 </div>
 
 <svelte:head>
-  <title>Liffe 2022</title>
+  <title>liffe 2022</title>
   <meta name="robots" content="noindex nofollow" />
 </svelte:head>
 
