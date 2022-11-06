@@ -193,5 +193,171 @@
         }
       ],
       "image": "slovo.png"
+    },
+    {
+      "id": 6,
+      "name": "Close",
+      "sloname": "Blizu",
+      "engname": "Close",
+      "score": "7.8",
+      "shows" : [
+        {
+          "kino": "Maribox",
+          "date": "9.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "13.11.2022",
+          "time": "15:45"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "17.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "18.11.2022",
+          "time": "18:40"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "20.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "20.11.2022",
+          "time": "20:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3434"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9660502"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "ucLcxqt6Dzo"
+        }
+      ],
+      "image": "close.png"
+    },
+    {
+      "id": 7,
+      "name": "Vanskabte Land",
+      "sloname": "Božja dežela",
+      "engname": "Godland",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "9.11.2022",
+          "time": "15:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "11.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "14.11.2022",
+          "time": "15:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3444"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19623228"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "_72WOvp9VU8"
+        }
+      ],
+      "image": "godland.png"
+    },
+    {
+      "id": 8,
+      "name": "Bravo maestro",
+      "sloname": "Bravo, maestro",
+      "engname": "Bravo maestro",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "13.11.2022",
+          "time": "16:30"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "19.11.2022",
+          "time": "20:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3409"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0077273"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "dPcwJrKmfIg"
+        }
+      ],
+      "image": "maestro.png"
+    },
+    {
+      "id": 9,
+      "name": "Khers nist",
+      "sloname": "Brez medvedov",
+      "engname": "No Bears",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "9.11.2022",
+          "time": "18:40"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "16.11.2022",
+          "time": "17:20"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "17.11.2022",
+          "time": "16:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3409"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt20205236"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "ET9JtKgN3AA"
+        }
+      ],
+      "image": "bears.png"
     }
 ]
