@@ -47,16 +47,35 @@
     return str;
   };
 
+  let getUrl = () => {
+    return "https://liffe2022.vercel.app/" + id;
+  }
+
+  let getImageUrl = () => {
+    return "https://liffe2022.vercel.app/images/movies/" + movie.image;
+  }
+
+  let getOgDescription = () => {
+    let ret = "IMDB: " + movie.score;
+    ret += '\n';
+    for(let s in movie.shows) {
+      let show = movie.shows[s];
+      ret += show.date + " - " + getWeekday(show.date) + " - " + show.time + "h - " + show.kino;
+      ret += '\n';
+    }
+    return ret;
+  }
+
 </script>
 
 <svelte:head>
    <meta property="og:site_name" content="liffe2022" />
    <meta property="og:locale" content="en" />
-   <meta property="og:url" content="liffe2022.vercel.app" />
+   <meta property="og:url" content={getUrl()} />
    <meta property="og:type" content="website" />
    <meta property="og:title" content={movie.name} />
-   <meta property="og:description" content={movie.name} />
-   <meta property="og:image" content={`https://liffe2022.vercel.app/images/movies/${movie.image}`} />
+   <meta property="og:description" content={getOgDescription()} />
+   <meta property="og:image" content={getImageUrl()} />
    <meta property="og:image:width" content="400" />
    <meta property="og:image:height" content="400" />
    <meta property="og:image:alt" content={movie.name} />
