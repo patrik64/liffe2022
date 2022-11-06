@@ -1,8 +1,8 @@
 <script>
+
   import { FilmIcon } from "@rgossiaux/svelte-heroicons/outline";
   import movies from "$lib/data/movies.json";
 
-  // @ts-ignore
   let getWeekday = (date) => {
     if(date === "9.11.2022") {
       return "Wednesday";
@@ -29,14 +29,15 @@
     } else if (date === "20.11.2022") {
       return "Sunday";
     }
+
     return "Bugday";
   }
 
-  // @ts-ignore
   let formatShow = (show) => {
     let str = show.date + " - " + getWeekday(show.date) + " - " + show.time + "h - " + show.kino;
     return str;
   };
+
   </script>
   
   <div class="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">

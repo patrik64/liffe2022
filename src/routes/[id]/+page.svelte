@@ -12,37 +12,36 @@
 
   let movie = movies[id - 1];
 
-  // @ts-ignore
   let getWeekday = (date) => {
     if(date === "9.11.2022") {
-    return "Wednesday";
+      return "Wednesday";
     } else if (date === "10.11.2022") {
-    return "Thursday";
+      return "Thursday";
     } else if (date === "11.11.2022") {
-    return "Friday";
+      return "Friday";
     } else if (date === "12.11.2022") {
-    return "Saturday";
+      return "Saturday";
     } else if (date === "13.11.2022") {
-    return "Sunday";
+      return "Sunday";
     } else if (date === "14.11.2022") {
-    return "Monday";
+      return "Monday";
     } else if (date === "15.11.2022") {
-    return "Tuesday";
+      return "Tuesday";
     } else if (date === "16.11.2022") {
-    return "Wednesday";
+      return "Wednesday";
     } else if (date === "17.11.2022") {
-    return "Thursday";
+      return "Thursday";
     } else if (date === "18.11.2022") {
-    return "Friday";
+      return "Friday";
     } else if (date === "19.11.2022") {
-    return "Saturday";
+      return "Saturday";
     } else if (date === "20.11.2022") {
-    return "Sunday";
+      return "Sunday";
     }
+
     return "Bugday";
   }
 
-  // @ts-ignore
   let formatShow = (show) => {
     let str = show.date + " - " + getWeekday(show.date) + " - " + show.time + "h - " + show.kino;
     return str;
@@ -61,37 +60,37 @@
   </div>
   <div class="border-t border-gray-200 px-4 py-5 sm:p-0">
     <dl class="sm:divide-y sm:divide-gray-200">
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">Name</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.name}</dd>
       </div>
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">SLO Name</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.sloname}</dd>
       </div>
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">ENG Name</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.engname}</dd>
       </div>
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">IMDB Score</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.score}</dd>
       </div>
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">IMDB</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2"><a href={movie.links[1].lvalue} class="hover:text-black">{movie.links[1].lvalue}</a></dd>
       </div>
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">Liffe</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2"><a href={movie.links[0].lvalue} class="hover:text-black">{movie.links[0].lvalue}</a></dd>
       </div>
       {#each movie.shows as show, showIdx}
-          <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+          <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
               <dt class="text-sm font-medium text-gray-600">Show {showIdx+1}</dt>
               <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{formatShow(show)}</dd>
           </div>
       {/each}
-      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-6 sm:gap-4 sm:px-6">
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-5 sm:gap-4 sm:px-6">
           <dt class="text-sm font-medium text-gray-600">Trailer</dt>
           <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2"><Youtube id="{movie.links[2].lvalue}" /></dd>
         </div>

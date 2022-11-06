@@ -359,5 +359,322 @@
         }
       ],
       "image": "bears.png"
+    },
+    {
+      "id": 10,
+      "name": "Čaruga",
+      "sloname": "Čaruga",
+      "engname": "Charuga",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "15.11.2022",
+          "time": "20:30"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "18.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3412"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0099241"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "5KjxnJsvu6k"
+        }
+      ],
+      "image": "charuga.png"
+    },
+    {
+      "id": 11,
+      "name": "Berdreymi",
+      "sloname": "Čudovita bitja",
+      "engname": "Beautiful Beings",
+      "score": "7.8",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "10.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "11.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "15.11.2022",
+          "time": "11:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3442"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13845660"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "PFIhZsQhy_4"
+        }
+      ],
+      "image": "beings.png"
+    },
+    {
+      "id": 12,
+      "name": "The Banshees of Inisherin",
+      "sloname": "Duše otoka",
+      "engname": "The Banshees of Inisherin",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "10.11.2022",
+          "time": "18:40"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "12.11.2022",
+          "time": "21:20"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "16.11.2022",
+          "time": "16:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3478"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11813216"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "uRu3zLOJN2c"
+        }
+      ],
+      "image": "banshees.png"
+    },
+    {
+      "id": 13,
+      "name": "La nuit du 12",
+      "sloname": "Dvanajstega ponoči",
+      "engname": "The Night of the 12th",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "13.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "18.11.2022",
+          "time": "21:10"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "19.11.2022",
+          "time": "21:10"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3436"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt16953666"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "_zlztTha8Mw"
+        }
+      ],
+      "image": "nuit.png"
+    },
+    {
+      "id": 14,
+      "name": "Heojil kyolshim",
+      "sloname": "Dvojna prevara",
+      "engname": "Decision to Leave",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Maribox",
+          "date": "10.11.2022",
+          "time": "20:15"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "10.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "12.11.2022",
+          "time": "21:20"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "15.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "17.11.2022",
+          "time": "21:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3467"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12477480"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "-nrhjRigcBQ"
+        }
+      ],
+      "image": "leave.png"
+    },
+    {
+      "id": 15,
+      "name": "Falcon Lake",
+      "sloname": "Falcon Lake",
+      "engname": "Falcon Lake",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "11.11.2022",
+          "time": "16:50"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "13.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "18.11.2022",
+          "time": "16:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3459"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11448830"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Gdb2dcWri2o"
+        }
+      ],
+      "image": "falconlake.png"
+    },
+    {
+      "id": 16,
+      "name": "Die bitteren Tränen der Petra von Kant",
+      "sloname": "Grenke solze Petre von Kant",
+      "engname": "The Bitter Tears of Petra von Kant",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "11.11.2022",
+          "time": "18:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "16.11.2022",
+          "time": "14:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3447"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0068278"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Xqgea3KtikY"
+        }
+      ],
+      "image": "kant.png"
+    },
+    {
+      "id": 17,
+      "name": "Eo",
+      "sloname": "Ia",
+      "engname": "Eo",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "14.11.2022",
+          "time": "16:40"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "16.11.2022",
+          "time": "19:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "18.11.2022",
+          "time": "21:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3453"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0068278"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Xqgea3KtikY"
+        }
+      ],
+      "image": "eo.png"
     }
 ]
