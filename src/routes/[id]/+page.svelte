@@ -57,10 +57,6 @@
 
   let getOgDescription = () => {
     let ret = "IMDB: " + movie.score;
-    ret += "&#10;&#13";
-    ret += "\r\n";  
-    ret += "\r";  
-    ret += "\n";  
     for(let s in movie.shows) {
       let show = movie.shows[s];
       
