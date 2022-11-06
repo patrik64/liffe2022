@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "name": "1976",
+      "sloname": "1976",
+      "engname": "Chile '76",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "10.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "14.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "20.11.2022",
+          "time": "16:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3475"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19758012"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "4wFj2b9JPpw"
+        }
+      ],
+      "image": "chile.png"
+    },
+    {
+      "id": 2,
+      "name": "Égi bárány",
+      "sloname": "Agnus Dei",
+      "engname": "Agnus Dei",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "12.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "17.11.2022",
+          "time": "20:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3405"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0066617"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "pmyQg5pLwBc"
+        }
+      ],
+      "image": "egibarany.png"
+    },
+    {
+      "id": 3,
+      "name": "Alcarràs",
+      "sloname": "Alcarràs",
+      "engname": "Alcarràs",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "13.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "13.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "14.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "15.11.2022",
+          "time": "18:10"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "16.11.2022",
+          "time": "21:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3414"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11930126"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "HKyOgRKzJBM"
+        }
+      ],
+      "image": "alcarras.png"
+    }
+]
