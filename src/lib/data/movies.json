@@ -1681,5 +1681,454 @@
         }
       ],
       "image": "vagues.png"
+    },
+    {
+      "id": 43,
+      "name": "Nachtwald",
+      "sloname": "Nočni gozd",
+      "engname": "Night Forest",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "19.11.2022",
+          "time": "17:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3446"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12509550"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "vMBSSOi32gw"
+        }
+      ],
+      "image": "nachtwald.png"
+    },
+    {
+      "id": 44,
+      "name": "Avec amour et acharnement",
+      "sloname": "Obe strani rezila",
+      "engname": "Both Sides of the Blade",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "9.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "10.11.2022",
+          "time": "16:30"
+        },
+        {
+          "kino": "Maribox",
+          "date": "20.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "20.11.2022",
+          "time": "21:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3432"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13535920"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "OBTJTtOiuzg"
+        }
+      ],
+      "image": "blade.png"
+    },
+    {
+      "id": 45,
+      "name": "Tafrigh",
+      "sloname": "Odštevanje",
+      "engname": "Subtraction",
+      "score": "7.8",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "14.11.2022",
+          "time": "20:45"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "16.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "17.11.2022",
+          "time": "21:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3483"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13920920"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "_S-0mjg4ygI"
+        }
+      ],
+      "image": "subtraction.png"
+    },
+    {
+      "id": 46,
+      "name": "Okupacija u 26 slika",
+      "sloname": "Okupacija v 26 slikah",
+      "engname": "Occupation in 26 Pictures",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "11.11.2022",
+          "time": "21:10"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "16.11.2022",
+          "time": "18:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3483"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0079659"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "PN2hAJLq9Fw"
+        }
+      ],
+      "image": "okupacija.png"
+    },
+    {
+      "id": 47,
+      "name": "She Said",
+      "sloname": "Ona ve",
+      "engname": "She Said",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Kino Bežigrad",
+          "date": "16.11.2022",
+          "time": "16:30"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "18.11.2022",
+          "time": "18:30"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "20.11.2022",
+          "time": "21:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3490"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0079659"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "i5pxUQecM3Y"
+        }
+      ],
+      "image": "shesaid.png"
+    },
+    {
+      "id": 48,
+      "name": "Le otto montagne",
+      "sloname": "Osem gora",
+      "engname": "The Eight Mountains",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Kino Bežigrad",
+          "date": "11.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "13.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "17.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "17.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "18.11.2022",
+          "time": "20:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3450"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14641542"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "QAJnd16VxuM"
+        }
+      ],
+      "image": "otto.png"
+    },
+    {
+      "id": 49,
+      "name": "Pacifiction",
+      "sloname": "Pacifikcija",
+      "engname": "Pacifiction",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "10.11.2022",
+          "time": "15:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "17.11.2022",
+          "time": "11:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3491"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13702796"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "nhElrq_XNxU"
+        }
+      ],
+      "image": "pacifiction.png"
+    },
+    {
+      "id": 50,
+      "name": "Pamfir",
+      "sloname": "Pamfir",
+      "engname": "Pamfir",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "9.11.2022",
+          "time": "16:20"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "12.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "18.11.2022",
+          "time": "16:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3468"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9455468"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "MExG3uX3Jzk"
+        }
+      ],
+      "image": "pamfir.png"
+    },
+    {
+      "id": 51,
+      "name": "Zgjoi",
+      "sloname": "Panj",
+      "engname": "Hive",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "19.11.2022",
+          "time": "15:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3438"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13648212"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "MExG3uX3Jzk"
+        }
+      ],
+      "image": "hive.png"
+    },
+    {
+      "id": 52,
+      "name": "Mogura no uta Final",
+      "sloname": "Pesem o krtu: Finale",
+      "engname": "The Mole Song: Final ",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "11.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "14.11.2022",
+          "time": "21:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3445"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14941348"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "HCgIO7l2NQQ"
+        }
+      ],
+      "image": "mole.png"
+    },
+    {
+      "id": 53,
+      "name": "Peter von Kant",
+      "sloname": "Peter von Kant",
+      "engname": "Peter von Kant",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "9.11.2022",
+          "time": "14:45"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "15.11.2022",
+          "time": "21:10"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "16.11.2022",
+          "time": "19:20"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3431"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14941348"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "-H9LU1mSJ94"
+        }
+      ],
+      "image": "peter.png"
+    },
+    {
+      "id": 54,
+      "name": "Petrijin venac",
+      "sloname": "Petrijin venec",
+      "engname": "Petria's Wreath",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "12.11.2022",
+          "time": "20:30"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "17.11.2022",
+          "time": "16:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3469"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0081331"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "siM8U1WSA40"
+        }
+      ],
+      "image": "venac.png"
     }
+
 ]
