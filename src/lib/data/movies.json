@@ -1256,7 +1256,7 @@
       "id": 33,
       "name": "Robotbror",
       "sloname": "Moj brat robot",
-      "engname": "My Robot Brother ",
+      "engname": "My Robot Brother",
       "score": "6.7",
       "shows" : [
         {
@@ -1471,7 +1471,7 @@
       "id": 38,
       "name": "Utama",
       "sloname": "Naš dom",
-      "engname": "Our Home ",
+      "engname": "Our Home",
       "score": "7.5",
       "shows" : [
         {
@@ -1510,5 +1510,176 @@
         }
       ],
       "image": "utama.png"
+    },
+    {
+      "id": 39,
+      "name": "Un beau matin",
+      "sloname": "Nekega lepega jutra",
+      "engname": "One Fine Morning",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "9.11.2022",
+          "time": "18:20"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "11.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "12.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "16.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "19.11.2022",
+          "time": "20:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3430"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13482828"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "pYY5ejKeZ9U"
+        }
+      ],
+      "image": "matin.png"
+    },
+    {
+      "id": 40,
+      "name": "Unrueh",
+      "sloname": "Nemir",
+      "engname": "Unrest",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "12.11.2022",
+          "time": "16:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "14.11.2022",
+          "time": "18:15"
+        },
+        {
+          "kino": "Maribox",
+          "date": "15.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "19.11.2022",
+          "time": "16:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3421"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11409736"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "D4dl9A5hot4"
+        }
+      ],
+      "image": "unrest.png"
+    },
+    {
+      "id": 41,
+      "name": "L'immensita",
+      "sloname": "Neskončnost",
+      "engname": "L'immensita",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "9.11.2022",
+          "time": "16:40"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "17.11.2022",
+          "time": "14:40"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "19.11.2022",
+          "time": "17:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3492"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13051724"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "t8iBrVQPV0M"
+        }
+      ],
+      "image": "immensita.png"
+    },
+    {
+      "id": 42,
+      "name": "Entre les vagues",
+      "sloname": "Neustavljivi",
+      "engname": "The Braves",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "11.11.2022",
+          "time": "15:15"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "14.11.2022",
+          "time": "21:10"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "19.11.2022",
+          "time": "14:50"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3425"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14064662"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "Cscsml6UZdY"
+        }
+      ],
+      "image": "vagues.png"
     }
 ]
