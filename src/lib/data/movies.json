@@ -3241,7 +3241,7 @@
       "name": "Sirokkó",
       "sloname": "Zimski veter",
       "engname": "Winter Wind",
-      "score": "",
+      "score": "6.5",
       "shows" : [
         {
           "kino": "Slovenska kinoteka",
@@ -3269,5 +3269,195 @@
         }
       ],
       "image": "sirokko.png"
+    },
+    {
+      "id": 85,
+      "name": "Crimes of the Future",
+      "sloname": "Zločini prihodnosti",
+      "engname": "Crimes of the Future",
+      "score": "5.9",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "10.11.2022",
+          "time": "21:30"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "14.11.2022",
+          "time": "21:15"
+        },
+        {
+          "kino": "Maribox",
+          "date": "15.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "20.11.2022",
+          "time": "11:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3449"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0065138"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "QGwtPfjt9Zc"
+        }
+      ],
+      "image": "crimesfuture.png"
+    },
+    {
+      "id": 86,
+      "name": "Princesse Dragon",
+      "sloname": "Zmajska princesa",
+      "engname": "Dragon Princess",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "13.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "19.11.2022",
+          "time": "10:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3423"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt7805344"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "XUeID6kT2u0"
+        }
+      ],
+      "image": "dragon.png"
+    },
+    {
+      "id": 87,
+      "name": "As bestas",
+      "sloname": "Zveri",
+      "engname": "Beasts",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "10.11.2022",
+          "time": "11:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "15.11.2022",
+          "time": "21:15"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "20.11.2022",
+          "time": "21:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3457"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15006566"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "abbJ8TdhCRs"
+        }
+      ],
+      "image": "beasts.png"
+    },
+    {
+      "id": 88,
+      "name": "Csillagosok, katonák",
+      "sloname": "Zvezde in vojaki",
+      "engname": "The Red and the White",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "10.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "14.11.2022",
+          "time": "21:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3403"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0061537"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "CvmVmjl6aCE"
+        }
+      ],
+      "image": "redwhite.png"
+    },
+    {
+      "id": 89,
+      "name": "Living",
+      "sloname": "Živeti",
+      "engname": "Living",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Kino Komuna",
+          "date": "9.11.2022",
+          "time": "18:45"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "14.11.2022",
+          "time": "16:30"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "16.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3476"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9051908"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "w1IYxAIGZ_A"
+        }
+      ],
+      "image": "living.png"
     }
 ]
