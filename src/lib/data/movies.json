@@ -2811,5 +2811,463 @@
         }
       ],
       "image": "igy.png"
+    },
+    {
+      "id": 73,
+      "name": "Tinnitus",
+      "sloname": "Tinitus",
+      "engname": "Tinnitus",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "16.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "18.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3473"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12530402"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "EXMgs26dn9g"
+        }
+      ],
+      "image": "tinnitus.png"
+    },
+    {
+      "id": 74,
+      "name": "Tori et Lokita",
+      "sloname": "Tori in Lokita",
+      "engname": "Tori & Lokita",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "13.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "17.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "19.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Maribox",
+          "date": "20.11.2022",
+          "time": "18:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3433"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18317064"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "lQiFvP-mHZw"
+        }
+      ],
+      "image": "tori.png"
+    },
+    {
+      "id": 75,
+      "name": "Tralala",
+      "sloname": "Tralala",
+      "engname": "Tralala",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "Kino Bežigrad",
+          "date": "17.11.2022",
+          "time": "14:45"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "19.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "20.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3440"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12591668"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "op3U4HWk4VM"
+        }
+      ],
+      "image": "tralala.png"
+    },
+    {
+      "id": 76,
+      "name": "Triangle of Sadness",
+      "sloname": "Trikotnik žalosti",
+      "engname": "Triangle of Sadness",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Maribox",
+          "date": "11.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Kino Union Celje",
+          "date": "11.11.2022",
+          "time": "20:00"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "11.11.2022",
+          "time": "20:15"
+        },
+        {
+          "kino": "Linhartova dvorana",
+          "date": "13.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Kino Komuna",
+          "date": "17.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "APT Novo mesto",
+          "date": "19.11.2022",
+          "time": "19:15"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://www.imdb.com/title/tt7322224"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt7322224"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "VDvfFIZQIuQ"
+        }
+      ],
+      "image": "triangle.png"
+    },
+    {
+      "id": 77,
+      "name": "U raljama života",
+      "sloname": "V žrelu življenja",
+      "engname": "In the Jaws of Life",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "12.11.2022",
+          "time": "18:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "18.11.2022",
+          "time": "21:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3411"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0088312"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "cZ7kzbDRuuQ"
+        }
+      ],
+      "image": "ralje.png"
+    },
+    {
+      "id": 78,
+      "name": "Sigurno mjesto",
+      "sloname": "Varen kraj",
+      "engname": "Safe Place",
+      "score": "8.3",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "14.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "18.11.2022",
+          "time": "21:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "20.11.2022",
+          "time": "17:40"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3466"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21230074"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "d37umcFlhOI"
+        }
+      ],
+      "image": "sigurno.png"
+    },
+    {
+      "id": 79,
+      "name": "Barbaque",
+      "sloname": "Vegani so okusnejši",
+      "engname": "Some Like it Rare",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "12.11.2022",
+          "time": "19:10"
+        },
+        {
+          "kino": "Kino Bežigrad",
+          "date": "15.11.2022",
+          "time": "17:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "19.11.2022",
+          "time": "19:10"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3485"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12887770"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "vqBoGrjTSF4"
+        }
+      ],
+      "image": "rare.png"
+    },
+    {
+      "id": 80,
+      "name": "Vera andrron detin",
+      "sloname": "Vera sanja o morju",
+      "engname": "Vera Dreams of the Sea",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Kinodvor",
+          "date": "13.11.2022",
+          "time": "19:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "15.11.2022",
+          "time": "20:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3427"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10166880"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "sb_9b9ZjVzs"
+        }
+      ],
+      "image": "vera.png"
+    },
+    {
+      "id": 81,
+      "name": "Wet Sand",
+      "sloname": "Vlažen prod",
+      "engname": "Wet Sand",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "11.11.2022",
+          "time": "14:30"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "14.11.2022",
+          "time": "18:45"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3480"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15078366"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "wYC0TzYeDNw"
+        }
+      ],
+      "image": "wetsand.png"
+    },
+    {
+      "id": 82,
+      "name": "Za sada bez dobrog naslova",
+      "sloname": "Za zdaj brez dobrega naslova",
+      "engname": "A Film with No Name",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "15.11.2022",
+          "time": "18:30"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "20.11.2022",
+          "time": "21:00"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3462"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0167504"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "9R3--CSz2L8"
+        }
+      ],
+      "image": "noname.png"
+    },
+    {
+      "id": 83,
+      "name": "Zbornica",
+      "sloname": "Zbornica",
+      "engname": "The Staffroom",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Linhartova dvorana",
+          "date": "10.11.2022",
+          "time": "16:00"
+        },
+        {
+          "kino": "Kinodvor",
+          "date": "11.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Kosovelova dvorana",
+          "date": "13.11.2022",
+          "time": "21:10"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3443"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14950912"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "BLB6Ozs-e9o"
+        }
+      ],
+      "image": "zbornica.png"
+    },
+    {
+      "id": 84,
+      "name": "Sirokkó",
+      "sloname": "Zimski veter",
+      "engname": "Winter Wind",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "11.11.2022",
+          "time": "15:00"
+        },
+        {
+          "kino": "Slovenska kinoteka",
+          "date": "14.11.2022",
+          "time": "16:30"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "liffe",
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3404"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0065138"
+        },
+        {
+          "lkey": "trailer",
+          "lvalue": "2IzKzUQQh4w"
+        }
+      ],
+      "image": "sirokko.png"
     }
 ]
