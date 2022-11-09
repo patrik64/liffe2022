@@ -7,17 +7,17 @@
       "score": "6.7",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "10.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "14.11.2022",
           "time": "14:30"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "20.11.2022",
           "time": "16:45"
         }
@@ -25,7 +25,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3475"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3475"
         },
         {
           "lkey": "imdb",
@@ -46,12 +46,12 @@
       "score": "6.3",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "12.11.2022",
           "time": "16:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "17.11.2022",
           "time": "20:45"
         }
@@ -59,7 +59,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3405"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3405"
         },
         {
           "lkey": "imdb",
@@ -80,7 +80,7 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "13.11.2022",
           "time": "11:00"
         },
@@ -95,7 +95,7 @@
           "time": "20:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "15.11.2022",
           "time": "18:10"
         },
@@ -108,7 +108,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3414"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3414"
         },
         {
           "lkey": "imdb",
@@ -129,12 +129,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "10.11.2022",
           "time": "15:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "20.11.2022",
           "time": "14:50"
         }
@@ -142,7 +142,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3481"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3481"
         },
         {
           "lkey": "imdb",
@@ -168,12 +168,12 @@
           "time": "16:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "18.11.2022",
           "time": "18:15"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "20.11.2022",
           "time": "20:30"
         }
@@ -181,7 +181,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3456"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3456"
         },
         {
           "lkey": "imdb",
@@ -207,7 +207,7 @@
           "time": "20:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "13.11.2022",
           "time": "15:45"
         },
@@ -217,7 +217,7 @@
           "time": "19:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "18.11.2022",
           "time": "18:40"
         },
@@ -235,7 +235,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3434"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3434"
         },
         {
           "lkey": "imdb",
@@ -256,12 +256,12 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "9.11.2022",
           "time": "15:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "11.11.2022",
           "time": "11:00"
         },
@@ -274,7 +274,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3444"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3444"
         },
         {
           "lkey": "imdb",
@@ -295,12 +295,12 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "13.11.2022",
           "time": "16:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "19.11.2022",
           "time": "20:30"
         }
@@ -308,7 +308,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3409"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3409"
         },
         {
           "lkey": "imdb",
@@ -329,7 +329,7 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "9.11.2022",
           "time": "18:40"
         },
@@ -339,7 +339,7 @@
           "time": "17:20"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "17.11.2022",
           "time": "16:45"
         }
@@ -347,7 +347,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3409"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3409"
         },
         {
           "lkey": "imdb",
@@ -368,12 +368,12 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "15.11.2022",
           "time": "20:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "18.11.2022",
           "time": "18:45"
         }
@@ -381,7 +381,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3412"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3412"
         },
         {
           "lkey": "imdb",
@@ -402,17 +402,17 @@
       "score": "7.8",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "10.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "11.11.2022",
           "time": "18:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "15.11.2022",
           "time": "11:00"
         }
@@ -420,7 +420,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3442"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3442"
         },
         {
           "lkey": "imdb",
@@ -441,7 +441,7 @@
       "score": "8.2",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "10.11.2022",
           "time": "18:40"
         },
@@ -451,7 +451,7 @@
           "time": "21:20"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "16.11.2022",
           "time": "16:15"
         }
@@ -459,7 +459,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3478"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3478"
         },
         {
           "lkey": "imdb",
@@ -480,7 +480,7 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "11:00"
         },
@@ -490,7 +490,7 @@
           "time": "20:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "18.11.2022",
           "time": "21:10"
         },
@@ -503,7 +503,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3436"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3436"
         },
         {
           "lkey": "imdb",
@@ -534,7 +534,7 @@
           "time": "21:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "12.11.2022",
           "time": "21:20"
         },
@@ -552,7 +552,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3467"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3467"
         },
         {
           "lkey": "imdb",
@@ -573,7 +573,7 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "11.11.2022",
           "time": "16:50"
         },
@@ -591,7 +591,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3459"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3459"
         },
         {
           "lkey": "imdb",
@@ -612,12 +612,12 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "11.11.2022",
           "time": "18:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "16.11.2022",
           "time": "14:30"
         }
@@ -625,7 +625,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3447"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3447"
         },
         {
           "lkey": "imdb",
@@ -646,7 +646,7 @@
       "score": "7.0",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "14.11.2022",
           "time": "16:40"
         },
@@ -656,7 +656,7 @@
           "time": "19:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "18.11.2022",
           "time": "21:00"
         }
@@ -664,7 +664,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3453"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3453"
         },
         {
           "lkey": "imdb",
@@ -685,7 +685,7 @@
       "score": "7.3",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "12.11.2022",
           "time": "17:15"
         },
@@ -695,7 +695,7 @@
           "time": "14:30"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "17.11.2022",
           "time": "17:00"
         }
@@ -703,7 +703,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3426"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3426"
         },
         {
           "lkey": "imdb",
@@ -724,7 +724,7 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "18.11.2022",
           "time": "11:00"
         }
@@ -732,7 +732,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3479"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3479"
         },
         {
           "lkey": "imdb",
@@ -758,12 +758,12 @@
           "time": "18:20"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "18.11.2022",
           "time": "16:10"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "20.11.2022",
           "time": "19:00"
         }
@@ -771,7 +771,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3489"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3489"
         },
         {
           "lkey": "imdb",
@@ -807,7 +807,7 @@
           "time": "18:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "19.11.2022",
           "time": "15:15"
         },
@@ -820,7 +820,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3435"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3435"
         },
         {
           "lkey": "imdb",
@@ -841,12 +841,12 @@
       "score": "8.4",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "11.11.2022",
           "time": "17:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "13.11.2022",
           "time": "14:30"
         }
@@ -854,7 +854,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3413"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3413"
         },
         {
           "lkey": "imdb",
@@ -875,12 +875,12 @@
       "score": "5.5",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "13.11.2022",
           "time": "16:15"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "20.11.2022",
           "time": "15:30"
         }
@@ -888,7 +888,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3458"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3458"
         },
         {
           "lkey": "imdb",
@@ -909,12 +909,12 @@
       "score": "7.3",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "10.11.2022",
           "time": "18:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "20.11.2022",
           "time": "17:00"
         }
@@ -922,7 +922,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3408"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3408"
         },
         {
           "lkey": "imdb",
@@ -953,7 +953,7 @@
           "time": "21:15"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "20.11.2022",
           "time": "18:20"
         }
@@ -961,7 +961,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3487"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3487"
         },
         {
           "lkey": "imdb",
@@ -982,7 +982,7 @@
       "score": "6.6",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "18.11.2022",
           "time": "15:50"
         }
@@ -990,7 +990,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3439"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3439"
         },
         {
           "lkey": "imdb",
@@ -1011,12 +1011,12 @@
       "score": "6.0",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "19:30"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "14.11.2022",
           "time": "14:30"
         }
@@ -1024,7 +1024,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3437"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3437"
         },
         {
           "lkey": "imdb",
@@ -1045,7 +1045,7 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "9.11.2022",
           "time": "19:30"
         },
@@ -1065,7 +1065,7 @@
           "time": "20:15"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "15.11.2022",
           "time": "16:00"
         },
@@ -1078,7 +1078,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3417"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3417"
         },
         {
           "lkey": "imdb",
@@ -1099,12 +1099,12 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "13.11.2022",
           "time": "19:15"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "19.11.2022",
           "time": "18:45"
         }
@@ -1112,7 +1112,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3407"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3407"
         },
         {
           "lkey": "imdb",
@@ -1133,12 +1133,12 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "9.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "15.11.2022",
           "time": "16:30"
         }
@@ -1146,7 +1146,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3402"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3402"
         },
         {
           "lkey": "imdb",
@@ -1177,7 +1177,7 @@
           "time": "17:45"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "12.11.2022",
           "time": "15:00"
         },
@@ -1195,7 +1195,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3451"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3451"
         },
         {
           "lkey": "imdb",
@@ -1216,7 +1216,7 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "10.11.2022",
           "time": "17:00"
         },
@@ -1226,7 +1226,7 @@
           "time": "18:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "17.11.2022",
           "time": "19:10"
         },
@@ -1239,7 +1239,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3420"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3420"
         },
         {
           "lkey": "imdb",
@@ -1260,12 +1260,12 @@
       "score": "6.7",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "12.11.2022",
           "time": "14:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "19.11.2022",
           "time": "15:00"
         }
@@ -1273,7 +1273,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3424"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3424"
         },
         {
           "lkey": "imdb",
@@ -1294,12 +1294,12 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "9.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "16:40"
         },
@@ -1312,7 +1312,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3455"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3455"
         },
         {
           "lkey": "imdb",
@@ -1333,17 +1333,17 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "12.11.2022",
           "time": "19:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "13.11.2022",
           "time": "18:45"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "15.11.2022",
           "time": "18:30"
         },
@@ -1366,7 +1366,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3428"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3428"
         },
         {
           "lkey": "imdb",
@@ -1392,7 +1392,7 @@
           "time": "21:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "15.11.2022",
           "time": "18:30"
         },
@@ -1402,7 +1402,7 @@
           "time": "20:15"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "20.11.2022",
           "time": "20:50"
         }
@@ -1410,7 +1410,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3448"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3448"
         },
         {
           "lkey": "imdb",
@@ -1436,7 +1436,7 @@
           "time": "18:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "12.11.2022",
           "time": "21:00"
         },
@@ -1446,7 +1446,7 @@
           "time": "18:45"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "17.11.2022",
           "time": "14:30"
         }
@@ -1454,7 +1454,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3470"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3470"
         },
         {
           "lkey": "imdb",
@@ -1475,12 +1475,12 @@
       "score": "7.5",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "10.11.2022",
           "time": "19:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "21:30"
         },
@@ -1498,7 +1498,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3419"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3419"
         },
         {
           "lkey": "imdb",
@@ -1519,12 +1519,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "9.11.2022",
           "time": "18:20"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "11.11.2022",
           "time": "21:00"
         },
@@ -1547,7 +1547,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3430"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3430"
         },
         {
           "lkey": "imdb",
@@ -1568,12 +1568,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "12.11.2022",
           "time": "16:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "14.11.2022",
           "time": "18:15"
         },
@@ -1591,7 +1591,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3421"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3421"
         },
         {
           "lkey": "imdb",
@@ -1617,12 +1617,12 @@
           "time": "16:40"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "17.11.2022",
           "time": "14:40"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "19.11.2022",
           "time": "17:00"
         }
@@ -1630,7 +1630,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3492"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3492"
         },
         {
           "lkey": "imdb",
@@ -1651,12 +1651,12 @@
       "score": "6.7",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "11.11.2022",
           "time": "15:15"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "14.11.2022",
           "time": "21:10"
         },
@@ -1669,7 +1669,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3425"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3425"
         },
         {
           "lkey": "imdb",
@@ -1690,12 +1690,12 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "14:30"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "19.11.2022",
           "time": "17:00"
         }
@@ -1703,7 +1703,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3446"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3446"
         },
         {
           "lkey": "imdb",
@@ -1724,7 +1724,7 @@
       "score": "6.3",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "9.11.2022",
           "time": "11:00"
         },
@@ -1739,7 +1739,7 @@
           "time": "20:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "20.11.2022",
           "time": "21:15"
         }
@@ -1747,7 +1747,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3432"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3432"
         },
         {
           "lkey": "imdb",
@@ -1773,12 +1773,12 @@
           "time": "20:45"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "16.11.2022",
           "time": "11:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "17.11.2022",
           "time": "21:15"
         }
@@ -1786,7 +1786,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3483"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3483"
         },
         {
           "lkey": "imdb",
@@ -1807,12 +1807,12 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "11.11.2022",
           "time": "21:10"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "16.11.2022",
           "time": "18:30"
         }
@@ -1820,7 +1820,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3483"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3483"
         },
         {
           "lkey": "imdb",
@@ -1846,7 +1846,7 @@
           "time": "16:30"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "18.11.2022",
           "time": "18:30"
         },
@@ -1859,7 +1859,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3490"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3490"
         },
         {
           "lkey": "imdb",
@@ -1885,7 +1885,7 @@
           "time": "16:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "13.11.2022",
           "time": "21:00"
         },
@@ -1908,7 +1908,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3450"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3450"
         },
         {
           "lkey": "imdb",
@@ -1929,12 +1929,12 @@
       "score": "6.6",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "10.11.2022",
           "time": "15:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "17.11.2022",
           "time": "11:00"
         }
@@ -1942,7 +1942,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3491"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3491"
         },
         {
           "lkey": "imdb",
@@ -1963,7 +1963,7 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "9.11.2022",
           "time": "16:20"
         },
@@ -1973,7 +1973,7 @@
           "time": "17:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "18.11.2022",
           "time": "16:15"
         }
@@ -1981,7 +1981,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3468"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3468"
         },
         {
           "lkey": "imdb",
@@ -2002,7 +2002,7 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "19.11.2022",
           "time": "15:00"
         }
@@ -2010,7 +2010,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3438"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3438"
         },
         {
           "lkey": "imdb",
@@ -2044,7 +2044,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3445"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3445"
         },
         {
           "lkey": "imdb",
@@ -2070,12 +2070,12 @@
           "time": "14:45"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "15.11.2022",
           "time": "21:10"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "16.11.2022",
           "time": "19:20"
         }
@@ -2083,7 +2083,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3431"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3431"
         },
         {
           "lkey": "imdb",
@@ -2104,12 +2104,12 @@
       "score": "8.2",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "12.11.2022",
           "time": "20:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "17.11.2022",
           "time": "16:00"
         }
@@ -2117,7 +2117,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3469"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3469"
         },
         {
           "lkey": "imdb",
@@ -2138,17 +2138,17 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "9.11.2022",
           "time": "15:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "10.11.2022",
           "time": "18:50"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "15.11.2022",
           "time": "16:00"
         }
@@ -2156,7 +2156,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3452"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3452"
         },
         {
           "lkey": "imdb",
@@ -2177,12 +2177,12 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "16.11.2022",
           "time": "17:10"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "17.11.2022",
           "time": "14:50"
         }
@@ -2190,7 +2190,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3471"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3471"
         },
         {
           "lkey": "imdb",
@@ -2211,12 +2211,12 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "9.11.2022",
           "time": "18:50"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "16.11.2022",
           "time": "21:00"
         }
@@ -2224,7 +2224,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3463"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3463"
         },
         {
           "lkey": "imdb",
@@ -2245,12 +2245,12 @@
       "score": "8.3",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "13.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "17.11.2022",
           "time": "18:15"
         }
@@ -2258,7 +2258,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3464"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3464"
         },
         {
           "lkey": "imdb",
@@ -2279,7 +2279,7 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "9.11.2022",
           "time": "21:00"
         },
@@ -2302,7 +2302,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3416"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3416"
         },
         {
           "lkey": "imdb",
@@ -2323,7 +2323,7 @@
       "score": "7.3",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "11.11.2022",
           "time": "21:00"
         },
@@ -2333,7 +2333,7 @@
           "time": "15:45"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "17.11.2022",
           "time": "16:45"
         }
@@ -2341,7 +2341,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3460"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3460"
         },
         {
           "lkey": "imdb",
@@ -2372,7 +2372,7 @@
           "time": "18:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "11.11.2022",
           "time": "19:00"
         },
@@ -2385,7 +2385,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3486"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3486"
         },
         {
           "lkey": "imdb",
@@ -2406,7 +2406,7 @@
       "score": "6.2",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "12.11.2022",
           "time": "19:00"
         },
@@ -2419,7 +2419,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3484"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3484"
         },
         {
           "lkey": "imdb",
@@ -2440,12 +2440,12 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "16.11.2022",
           "time": "21:15"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "19.11.2022",
           "time": "19:00"
         }
@@ -2453,7 +2453,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3441"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3441"
         },
         {
           "lkey": "imdb",
@@ -2474,12 +2474,12 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "14.11.2022",
           "time": "11:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "16.11.2022",
           "time": "20:45"
         }
@@ -2487,7 +2487,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3422"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3422"
         },
         {
           "lkey": "imdb",
@@ -2508,12 +2508,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "16.11.2022",
           "time": "16:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "20.11.2022",
           "time": "19:00"
         }
@@ -2521,7 +2521,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3406"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3406"
         },
         {
           "lkey": "imdb",
@@ -2542,7 +2542,7 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "10.11.2022",
           "time": "21:30"
         },
@@ -2562,7 +2562,7 @@
           "time": "19:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "16.11.2022",
           "time": "18:15"
         }
@@ -2570,7 +2570,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3415"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3415"
         },
         {
           "lkey": "imdb",
@@ -2596,12 +2596,12 @@
           "time": "15:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "17.11.2022",
           "time": "21:15"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "19.11.2022",
           "time": "21:15"
         }
@@ -2609,7 +2609,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3429"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3429"
         },
         {
           "lkey": "imdb",
@@ -2635,12 +2635,12 @@
           "time": "21:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "15.11.2022",
           "time": "15:50"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "17.11.2022",
           "time": "18:45"
         }
@@ -2648,7 +2648,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3482"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3482"
         },
         {
           "lkey": "imdb",
@@ -2669,12 +2669,12 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "10.11.2022",
           "time": "21:15"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "19.11.2022",
           "time": "16:30"
         }
@@ -2682,7 +2682,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3410"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3410"
         },
         {
           "lkey": "imdb",
@@ -2708,12 +2708,12 @@
           "time": "18:20"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "14.11.2022",
           "time": "18:40"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "20.11.2022",
           "time": "15:45"
         }
@@ -2721,7 +2721,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3474"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3474"
         },
         {
           "lkey": "imdb",
@@ -2747,7 +2747,7 @@
           "time": "18:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "16.11.2022",
           "time": "21:00"
         },
@@ -2765,7 +2765,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?idF=3477"
+          "lvalue": "https://www.liffe.si/urnik_2022/Film.aspx?ln=en&idF=3477"
         },
         {
           "lkey": "imdb",
@@ -2786,12 +2786,12 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "9.11.2022",
           "time": "16:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "14.11.2022",
           "time": "18:30"
         }
@@ -2799,7 +2799,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3401"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3401"
         },
         {
           "lkey": "imdb",
@@ -2820,7 +2820,7 @@
       "score": "7.5",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "16.11.2022",
           "time": "16:00"
         },
@@ -2833,7 +2833,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3473"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3473"
         },
         {
           "lkey": "imdb",
@@ -2854,12 +2854,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "13.11.2022",
           "time": "17:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "17.11.2022",
           "time": "19:00"
         },
@@ -2877,7 +2877,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3433"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3433"
         },
         {
           "lkey": "imdb",
@@ -2903,7 +2903,7 @@
           "time": "14:45"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "19.11.2022",
           "time": "19:00"
         },
@@ -2916,7 +2916,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3440"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3440"
         },
         {
           "lkey": "imdb",
@@ -2947,12 +2947,12 @@
           "time": "20:00"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "11.11.2022",
           "time": "20:15"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "13.11.2022",
           "time": "18:00"
         },
@@ -2991,12 +2991,12 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "12.11.2022",
           "time": "18:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "18.11.2022",
           "time": "21:00"
         }
@@ -3004,7 +3004,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3411"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3411"
         },
         {
           "lkey": "imdb",
@@ -3025,17 +3025,17 @@
       "score": "8.3",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "14.11.2022",
           "time": "16:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "18.11.2022",
           "time": "21:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "20.11.2022",
           "time": "17:40"
         }
@@ -3043,7 +3043,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3466"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3466"
         },
         {
           "lkey": "imdb",
@@ -3064,7 +3064,7 @@
       "score": "6.6",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "12.11.2022",
           "time": "19:10"
         },
@@ -3074,7 +3074,7 @@
           "time": "17:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "19.11.2022",
           "time": "19:10"
         }
@@ -3082,7 +3082,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3485"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3485"
         },
         {
           "lkey": "imdb",
@@ -3103,12 +3103,12 @@
       "score": "6.5",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "13.11.2022",
           "time": "19:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "15.11.2022",
           "time": "20:45"
         }
@@ -3116,7 +3116,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3427"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3427"
         },
         {
           "lkey": "imdb",
@@ -3137,12 +3137,12 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "11.11.2022",
           "time": "14:30"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "14.11.2022",
           "time": "18:45"
         }
@@ -3150,7 +3150,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3480"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3480"
         },
         {
           "lkey": "imdb",
@@ -3171,12 +3171,12 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "15.11.2022",
           "time": "18:30"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "20.11.2022",
           "time": "21:00"
         }
@@ -3184,7 +3184,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3462"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3462"
         },
         {
           "lkey": "imdb",
@@ -3205,17 +3205,17 @@
       "score": "7.0",
       "shows" : [
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "10.11.2022",
           "time": "16:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "11.11.2022",
           "time": "15:00"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "13.11.2022",
           "time": "21:10"
         }
@@ -3223,7 +3223,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3443"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3443"
         },
         {
           "lkey": "imdb",
@@ -3244,12 +3244,12 @@
       "score": "6.5",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "11.11.2022",
           "time": "15:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "14.11.2022",
           "time": "16:30"
         }
@@ -3257,7 +3257,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3404"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3404"
         },
         {
           "lkey": "imdb",
@@ -3283,7 +3283,7 @@
           "time": "21:30"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "14.11.2022",
           "time": "21:15"
         },
@@ -3293,7 +3293,7 @@
           "time": "20:00"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "20.11.2022",
           "time": "11:00"
         }
@@ -3301,7 +3301,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3449"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3449"
         },
         {
           "lkey": "imdb",
@@ -3322,12 +3322,12 @@
       "score": "7.7",
       "shows" : [
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "13.11.2022",
           "time": "14:30"
         },
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "19.11.2022",
           "time": "10:00"
         }
@@ -3335,7 +3335,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3423"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3423"
         },
         {
           "lkey": "imdb",
@@ -3356,7 +3356,7 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Kinodvor",
+          "kino": "Kinodvor Cinema",
           "date": "10.11.2022",
           "time": "11:00"
         },
@@ -3374,7 +3374,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3457"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3457"
         },
         {
           "lkey": "imdb",
@@ -3395,12 +3395,12 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "10.11.2022",
           "time": "16:00"
         },
         {
-          "kino": "Slovenska kinoteka",
+          "kino": "Slovenian Cinematheque",
           "date": "14.11.2022",
           "time": "21:00"
         }
@@ -3408,7 +3408,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3403"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3403"
         },
         {
           "lkey": "imdb",
@@ -3434,12 +3434,12 @@
           "time": "18:45"
         },
         {
-          "kino": "Kosovelova dvorana",
+          "kino": "Kosovel Hall",
           "date": "14.11.2022",
           "time": "16:30"
         },
         {
-          "kino": "Linhartova dvorana",
+          "kino": "Linhart Hall",
           "date": "16.11.2022",
           "time": "18:45"
         }
@@ -3447,7 +3447,7 @@
       "links": [
         {
           "lkey": "liffe",
-          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?idF=3476"
+          "lvalue": "https://liffe.si/urnik_2022/Film.aspx?ln=en&idF=3476"
         },
         {
           "lkey": "imdb",
